@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-task-app/static/css/main.efc4c171.css",
+    "main.js": "/first-task-app/static/js/main.150a180e.js",
+    "static/js/453.8ab44547.chunk.js": "/first-task-app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/first-task-app/index.html",
+    "main.efc4c171.css.map": "/first-task-app/static/css/main.efc4c171.css.map",
+    "main.150a180e.js.map": "/first-task-app/static/js/main.150a180e.js.map",
+    "453.8ab44547.chunk.js.map": "/first-task-app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc4c171.css",
+    "static/js/main.150a180e.js"
+  ]
+}
